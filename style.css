@@ -1,0 +1,54 @@
+.life:hover{
+    color: cyan !important;
+}
+.liife:hover{
+    color: cyan !important;
+    background-color: rgb(10, 12, 12) !important;
+}
+
+.liiife:hover{
+    border: 5px solid black !important;
+}
+
+
+#home{
+    background-color: black !important;
+}
+
+body{
+    background-color: black !important;;
+}
+
+footer{
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: aliceblue;
+    text-align: center;
+}
+
+.footer-content{
+    max-width: 960px;
+    margin: 0 auto;
+    font-family: fantasy;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 1.4;
+    letter-spacing: .03em;
+    font-size: 1em;
+}
+
+
+
+.credit{
+    text-align: center;
+}
+
+.iconn{
+    text-decoration: none;
+    color:black !important
+}
+
+.iconn:hover{
+    color: white !important;
+}
